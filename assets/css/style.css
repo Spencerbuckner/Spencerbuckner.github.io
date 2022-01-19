@@ -396,6 +396,24 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
+.skills .content ul {
+  list-style: none;
+  padding: 0;
+}
+.skills .content ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+.skills .content ul strong {
+  margin-right: 10px;
+}
+.skills .content ul i {
+  font-size: 16px;
+  margin-right: 5px;
+  color: #149ddd;
+  line-height: 0;
+}
 
 /*--------------------------------------------------------------
 # Resume
