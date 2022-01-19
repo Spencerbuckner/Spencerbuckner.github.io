@@ -480,7 +480,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #f5f8fd;
+  background: #fff;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -510,7 +510,7 @@ section {
 }
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.747);
+  background: rgba(255, 255, 255, 0.5);
   position: absolute;
   left: 0;
   right: 0;
