@@ -418,6 +418,16 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.resume .download-btn{
+  background-color: DodgerBlue;
+  color: white;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
