@@ -421,10 +421,10 @@ section {
 .resume .download-btn{
   background-color: DodgerBlue;
   color: white;
-  padding: 1rem 2rem;
-  font-size: 1.5rem;
+  padding: 1rem 1rem;
+  font-size: 1rem;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 
